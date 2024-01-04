@@ -1,1 +1,1 @@
-{"problems": [{"number": "2", "difficulty": "3", "date_completed": "4", "review": "5"}, {"number": "4", "difficulty": "5", "date_completed": "6", "review": "8"}]}
+{"problems": [{"number": "24", "difficulty": "4", "date_completed": ["01", "02", "2024"], "review": 2, "review_date": "2024-02-03"}, {"number": "23", "difficulty": "4", "date_completed": ["03", "01", "2024"], "review": 1, "review_date": "2024-01-03"}]}
